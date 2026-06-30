@@ -109,11 +109,3 @@ jupyter notebook
 | Amberly Truong | Data / Writing / Project Proposal |
 | Rohan Chidurala | Data / Revision |
 | Shazi Bidarian | Data / Revision |
-
-## デモ動画
-
-プロジェクト解説動画（限定公開）: https://youtu.be/qMeRJhlNutc
-
----
-
-> ⚠️ 本リポジトリはチーム全員の成果物を含むグループ課題であり、講義の提出フォーム上は **非公開（keep private）** に設定されています。公開する場合はメンバー全員の合意と、COGS 108 のアカデミック・インテグリティ／公開ポリシーの確認が必要です。
